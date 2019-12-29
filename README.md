@@ -1,6 +1,8 @@
 # Object Detection with YOLOv3-416
 
-yolov3.weights (416) must be on the same level with other files. 
+## Notice
+* yolov3.weights (416) must be on the same level with other files. 
+* Frame skips of video and webcam can be changed from Line 43. It detects the object in every 3 frames as default.
 
 ### yolov3.weight can be downloaded from here
 https://pjreddie.com/media/files/yolov3.weights
