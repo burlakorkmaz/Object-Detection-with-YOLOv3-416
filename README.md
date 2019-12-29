@@ -7,6 +7,6 @@ https://pjreddie.com/media/files/yolov3.weights
 
 ## Usage
 
-Webcam: objectDetection.py webcam
-Video: objectDetection.py 'Path of the video'
-Image: objectDetection.py 'Path of the image'
+* Webcam: objectDetection.py webcam
+* Video: objectDetection.py 'Path of the video'
+* Image: objectDetection.py 'Path of the image'
